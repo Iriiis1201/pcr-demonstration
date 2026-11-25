@@ -3,7 +3,7 @@ Demonstration of pcr proccess.
 # PCR Simulator 🧬
 An interactive, clickable PCR simulation built with pure HTML + SVG, designed for biology learning.
 
-🔗 **Online Demo**: https://Iriiii1201.github.io/pcr-simulator/
+🔗 **Online Demo**: https://Iriiii1201.github.io/pcr-demonstration/
 
 ## 🎮 Features
 - ✅ Click to add PCR reagents; the run button stays locked until all components are ready
